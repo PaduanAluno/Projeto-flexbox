@@ -1,0 +1,495 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dese",
+				"desenhaFrança"
+			],
+			[
+				"fil",
+				"fillStyle"
+			],
+			[
+				"tex",
+				"text-shadow"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"r",
+				"rgb()"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"im",
+				"imagem-beneficios"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"ti",
+				"titulo-centralizado"
+			],
+			[
+				"se",
+				"section"
+			],
+			[
+				"fot",
+				"font-weight"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"casa",
+				"casa3"
+			],
+			[
+				"cas",
+				"casa2"
+			],
+			[
+				"ta",
+				"tabuleiro1"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"x",
+				"xAzul"
+			],
+			[
+				"tama",
+				"tamanhoQuadrados"
+			],
+			[
+				"desenha",
+				"desenhaAlvo"
+			],
+			[
+				"s",
+				"sorteiaPosicao"
+			],
+			[
+				"y",
+				"yAleatorio"
+			],
+			[
+				"de",
+				"desenhaAlvo"
+			],
+			[
+				"a",
+				"atualizaTela"
+			],
+			[
+				"shift",
+				"shiftKey"
+			],
+			[
+				"desen",
+				"desenhaFlor"
+			],
+			[
+				"con",
+				"conteudos"
+			],
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"p",
+				"pincel"
+			],
+			[
+				"nume",
+				"numeroAleatorio"
+			],
+			[
+				"num",
+				"numeroAleatorio"
+			],
+			[
+				"nu",
+				"numeroAleatorio"
+			],
+			[
+				"n",
+				"numeroPensado"
+			],
+			[
+				"tota",
+				"totalFamiliares"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"peso",
+				"pesoInformado"
+			],
+			[
+				"al",
+				"alturaInformada"
+			],
+			[
+				"imc",
+				"imcAmigo"
+			],
+			[
+				"pes",
+				"peso2"
+			],
+			[
+				"me",
+				"mediaAnoParaFilho"
+			],
+			[
+				"i",
+				"inícioDosPortuga"
+			],
+			[
+				"idad",
+				"idadeIrma"
+			],
+			[
+				"mi",
+				"minhaIdade"
+			],
+			[
+				"idade",
+				"minhaIdade"
+			],
+			[
+				"com",
+				"consumoDeGasolina"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Naudap/Desktop/HTML E CSS5 2.0/style.css",
+		"/C/Users/Naudap/Desktop/HTML E CSS5 2.0/index.html",
+		"/C/Users/Naudap/Desktop/Lógica 2/revisao.html",
+		"/C/Users/Naudap/Desktop/Site Banco digital x Banco físico/style.css",
+		"/C/Users/Naudap/Desktop/Site Banco digital x Banco físico/home.css",
+		"/C/Users/Naudap/Desktop/Site Banco digital x Banco físico/home.html",
+		"/C/Users/Naudap/Desktop/Lógica 2/revisao_for.html",
+		"/C/Users/Naudap/Desktop/Lógica 2/jogo_da_velha.html",
+		"/C/Users/Naudap/Desktop/Lógica 2/jogo_da_velha2.html",
+		"/C/Users/Naudap/Desktop/Lógica 1/teste.html",
+		"/C/Users/Naudap/Desktop/HTML E CSS5 2.0/produtos.html",
+		"/C/Users/Naudap/Desktop/HTML E CSS3 - 1º/produtos.html",
+		"/C/Users/Naudap/Desktop/HTML E CSS3 - 1º/contato.html",
+		"/C/Users/Naudap/Desktop/HTML E CSS3 - 1º/style.css",
+		"/C/Users/Naudap/Desktop/HTML E CSS3 - 1º/primeira_pagina.html",
+		"/C/Program Files/Sublime Text 3/contato.html",
+		"/C/Users/Naudap/Desktop/HTML E CSS3 - 1º/produtos.css",
+		"/C/Users/Naudap/Desktop/HTML E CSS3 - 1º/reset.css",
+		"/C/Users/Naudap/Desktop/HTML E CSS3 - 1º/parte 2/produtos.css",
+		"/C/Users/Naudap/Desktop/HTML E CSS3 - 1º/parte 2/produtos.html",
+		"/C/Users/Naudap/Desktop/HTML E CSS3 - 2º/produtos.css",
+		"/C/Users/Naudap/Desktop/HTML E CSS3 - 2º/produtos.html",
+		"/C/Users/Naudap/Desktop/HTML E CSS3 - 1º/primeira_página.html",
+		"/C/Users/Naudap/Desktop/HTML E CSS3 - 1º/jogo_da_velha2.html",
+		"/C/Users/Naudap/Desktop/Lógica 1/for_para_while.html",
+		"/C/Users/Naudap/Desktop/Lógica 2/alvo.html",
+		"/C/Users/Naudap/Desktop/HTML E CSS3 - 1º/jogo_da_velha.html",
+		"/C/Users/Naudap/Desktop/Lógica 2/círculo5.html",
+		"/C/Users/Naudap/Desktop/Lógica 2/primeiro_jogo.html",
+		"/C/Users/Naudap/Desktop/Lógica 2/programa3.html",
+		"/C/Users/Naudap/Desktop/Lógica 1/jogo_adivinha.html",
+		"/C/Users/Naudap/Desktop/Lógica 1/adivinha_mais.html",
+		"/C/Users/Naudap/Desktop/Lógica 1/Primeiro_teste.html",
+		"/C/Users/Naudap/Desktop/Lógica 1/problema.html",
+		"/C/Users/Naudap/Desktop/Lógica 2/desafio_tryhard.html",
+		"/C/Users/Naudap/Desktop/HTML E CSS3 - 1º/cores_no_html.html",
+		"/C/Users/Naudap/Desktop/Lógica 2/meu_primeiro_jogo_solo.html",
+		"/C/Users/Naudap/Desktop/Lógica 2/programa4.html",
+		"/C/Users/Naudap/Desktop/Lógica 2/pulso.html",
+		"/C/Users/Naudap/Desktop/Lógica 2/bandeira.html",
+		"/C/Users/Naudap/Desktop/Lógica 2/movimentacao.html",
+		"/C/Users/Naudap/Desktop/Lógica 2/sentido.html",
+		"/C/Users/Naudap/Desktop/Lógica 2/volta.html",
+		"/C/Users/Naudap/Desktop/Lógica 2/volta2.0.html",
+		"/C/Users/Naudap/Desktop/Lógica 2/erro2.html",
+		"/C/Users/Naudap/Desktop/Lógica 2/erro.html",
+		"/C/Users/Naudap/Desktop/Lógica 2/alvo.htm",
+		"/C/Users/Naudap/Desktop/Lógica 2/cores.html",
+		"/C/Users/Naudap/Desktop/Lógica 2/desenha_mouse.html",
+		"/C/Users/Naudap/Desktop/Lógica 2/circulos3.html",
+		"/C/Users/Naudap/Desktop/Lógica 2/circulo4.html",
+		"/C/Users/Naudap/Desktop/Lógica 2/circulo.html",
+		"/C/Users/Naudap/Desktop/Lógica 2/programa2.html",
+		"/C/Users/Naudap/Desktop/Lógica 2/esquadro2.html",
+		"/C/Users/Naudap/Desktop/Lógica 2/fracao.html",
+		"/C/Users/Naudap/Desktop/Lógica 2/circulos.html",
+		"/C/Users/Naudap/Desktop/Lógica 2/barras.html",
+		"/C/Users/Naudap/Desktop/sorteio.html",
+		"/C/Users/Naudap/Desktop/Lógica 2/esquadro.html",
+		"/C/Users/Naudap/Desktop/Lógica 2/creeper.html",
+		"/C/Users/Naudap/Desktop/Lógica 2/bandeira_do_brasil.html",
+		"/C/Users/Naudap/Desktop/Lógica 2/programa1.html",
+		"/C/Users/Naudap/Desktop/Lógica/adivinha_mais.html",
+		"/C/Users/Naudap/Desktop/Lógica/problema.html",
+		"/C/Users/Naudap/Desktop/Lógica/mais_um_teste.html",
+		"/C/Users/Naudap/Desktop/Lógica/estrelas.html",
+		"/C/Users/Naudap/Desktop/Lógica/media_idades_familia.html",
+		"/C/Users/Naudap/Desktop/Lógica/for_para_while.html",
+		"/C/Users/Naudap/Desktop/Lógica/tabuada.html",
+		"/C/Users/Naudap/Desktop/Lógica/ano_copa.html",
+		"/C/Users/Naudap/Desktop/Lógica/numeros_20_a_0.html",
+		"/C/Users/Naudap/Desktop/Lógica/futebol.html",
+		"/C/Users/Naudap/Desktop/Lógica/jogo_adivinha.html",
+		"/C/Users/Naudap/Desktop/Lógica/imc.html",
+		"/C/Users/Naudap/Desktop/Lógica/sera_que_posso_dirigir.html",
+		"/C/Users/Naudap/Desktop/Lógica/quimica.html",
+		"/C/Users/Naudap/Desktop/Lógica/operacoes.html",
+		"/C/Users/Naudap/Desktop/Lógica/goretti.html",
+		"/C/Users/Naudap/Desktop/Lógica/goretti_html",
+		"/C/Users/Naudap/Desktop/Lógica/qual_o_resultado.html",
+		"/C/Users/Naudap/Desktop/Lógica/código_kellen.html",
+		"/C/Users/Naudap/Desktop/Lógica/calcula_imc_laércio.html",
+		"/C/Users/Naudap/Desktop/Lógica/mostra_idades2.html",
+		"/C/Users/Naudap/Desktop/Lógica/quantas_geracoes.html",
+		"/C/Users/Naudap/Desktop/Lógica/anos_de_diferenca.html",
+		"/C/Users/Naudap/Desktop/Lógica/anos_de_diferenca;html",
+		"/C/Users/Naudap/Desktop/Lógica/programa_do_gilberto_funcoes.html",
+		"/C/Users/Naudap/Desktop/Lógica/pegadinha.html",
+		"/C/Users/Naudap/Desktop/Lógica/programa.html",
+		"/C/Users/Naudap/Desktop/Lógica/calcula_consumo.html",
+		"/C/Users/Naudap/Desktop/Lógica/alcool_ou_gasolina.html",
+		"/C/Users/Naudap/Desktop/Lógica/erro.html",
+		"/C/Users/Naudap/Desktop/Lógica/numero_doido.html",
+		"/C/Users/Naudap/Desktop/Lógica/detetive_roy.html",
+		"/C/Users/Naudap/Desktop/Lógica/tabuado_8.html",
+		"/C/Users/Naudap/Desktop/Lógica/trabalho.html",
+		"/C/Users/Naudap/Desktop/Lógica/programa_by_eu.html",
+		"/C/Users/Naudap/Desktop/Lógica/Primeiro_teste.html",
+		"/C/Users/Naudap/Desktop/Lógica/uso_do_br_na_concatenação.html",
+		"/C/Users/Naudap/Desktop/Lógica/prova.html",
+		"/C/Users/Naudap/Desktop/Lógica/calculando_meu_gasto.html",
+		"/C/Users/Naudap/Desktop/Lógica/tio_ben.html",
+		"/C/Users/Naudap/Desktop/Lógica/Teste alert",
+		"/C/Users/Naudap/Desktop/Lógica/texto_puro.html",
+		"/C/Users/Naudap/Desktop/Lógica/Primeiro_TesteHTML"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 173.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
